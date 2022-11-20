@@ -18,7 +18,7 @@
 * 视频页面下推荐视频
 
 ## 4. 文件结构
-    - bilibili热门数据爬取
+    - root
         - bilibiliPopular
             - bilibiliPopular
                 - spiders
